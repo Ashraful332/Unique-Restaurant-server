@@ -3,7 +3,7 @@
 - and all api is on api fulder
 
 # routes
-There are many routes :
+There are many routes : /api/...
 
 - /main
 - /auth
@@ -22,3 +22,6 @@ There are many routes :
 - /delete-blog
 - /get-blog
 - /update-blog
+
+- /visitors
+
